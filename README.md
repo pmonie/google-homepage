@@ -1,5 +1,5 @@
 # google-homepage
-Google Homepage
+<p>Google Homepage</p>
 Summary
 HTML/CSS project to re-create the current Google page from scratch using what I learned from The Odin Porject.
 
